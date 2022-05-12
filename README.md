@@ -1,2 +1,3 @@
 # library_management_project_cpp_oops
-Project_using Cpp with OOPS concept
+o	It allows owner to check, add, update, delete, display, the books available to it shop. It also has a feature to provide books on rent, and display the charges.
+o	Tech – C++ language with its OOP concept
